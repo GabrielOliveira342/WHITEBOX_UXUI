@@ -126,13 +126,16 @@ A aplicação da métrica de **complexidade ciclomática** e a elaboração do *
 ---
 ##  Console  
 
-Usuário encontrado
-<img width="323" height="68" alt="Captura de tela 2025-11-13 131817" src="https://github.com/user-attachments/assets/1e2dba01-acac-4f56-816f-4bbe661eabbe" />
+**Usuário encontrado**
 
-Usuário não encontrado
+<img width="320" height="58" alt="Captura de tela 2025-11-13 132734" src="https://github.com/user-attachments/assets/e3b70052-0d74-42ec-9e95-b1fa0fc2c8d4" />
+
+**Usuário não encontrado**
+
 <img width="331" height="57" alt="Captura de tela 2025-11-13 132046" src="https://github.com/user-attachments/assets/69b43ba9-fea7-4106-99df-b43660d586dc" />
 
-Falha na conexão
+**Falha na conexão**
+
 <img width="779" height="55" alt="Captura de tela 2025-11-13 132242" src="https://github.com/user-attachments/assets/82e19f35-b1b0-4f85-806c-d00008610a93" />
 
 
