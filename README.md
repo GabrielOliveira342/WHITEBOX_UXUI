@@ -24,13 +24,13 @@ Durante o desenvolvimento, foram realizados os seguintes passos:
 
 ## 📊 Planilha de Análise  
 
-<img width="661" height="412" alt="Planilha de Análise" src="https://github.com/user-attachments/assets/562c1b80-e847-48d2-bf57-88fd69a8773e" />
+![WhatsApp Image 2025-11-12 at 20 53 48](https://github.com/user-attachments/assets/d65ee376-e837-4db4-81b2-1c2edb1ab718)
 
 ---
 
 ## 🧩 Grafo de Fluxo  
 
-<img width="416" height="622" alt="Grafo de Fluxo" src="https://github.com/user-attachments/assets/147515ed-76b2-408d-8b41-0a87ff95449d" />
+![WhatsApp Image 2025-11-12 at 15 43 55 (1)](https://github.com/user-attachments/assets/741ffd5b-f930-4f18-9088-a920379a599b)
 
 ---
 
