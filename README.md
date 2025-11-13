@@ -128,7 +128,7 @@ A aplicação da métrica de **complexidade ciclomática** e a elaboração do *
 ## 👩‍💻 Tecnologias Utilizadas  
 
 - ☕ **Java** (versão 17+)   
-- 🧾 **GitHub Markdown** para documentação  
+- 🧾 **GitHub** para documentação  
 - 🧠 **Teste de Caixa Branca**
 - 🧱 **JDBC (MySQL Connector/J)**
 - 🌐 **WampServer / phpMyAdmin** 
