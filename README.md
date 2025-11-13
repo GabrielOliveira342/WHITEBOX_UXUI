@@ -96,30 +96,7 @@ Essa métrica também auxilia a:
 
 ---
 
-## 💡 Conclusão  
-
-A partir da análise, o código foi avaliado, corrigido e testado com sucesso.  
-A aplicação da métrica de **complexidade ciclomática** e a elaboração do **grafo de fluxo** permitiram uma compreensão mais profunda do comportamento do programa e das suas estruturas de decisão.
-
----
-
-## 👩‍💻 Tecnologias Utilizadas  
-
-- ☕ **Java** (versão 17+)  
-- 🧰 **JDBC / MySQL** para conexão ao banco de dados  
-- 🧾 **GitHub Markdown** para documentação  
-- 🧠 **Teste de Caixa Branca**  
-
----
-
-## 📚 Referência  
-
-> GONÇALVEZ, Priscila de F.; BARRETO, Jeanine dos S.; ZENKER, Aline M.; *et al.*  
-> **Testes de software e gerência de configuração**, 2019.
-
----
-
-##  Conexão BD  
+## 🗄️ Conexão BD  
 
 <img width="565" height="313" alt="Captura de tela 2025-11-13 131635" src="https://github.com/user-attachments/assets/661b1288-61da-4f13-b7d7-019e4a75f553" />
 
@@ -141,7 +118,29 @@ A aplicação da métrica de **complexidade ciclomática** e a elaboração do *
 
 
 ---
+## 💡 Conclusão  
 
+A partir da análise, o código foi avaliado, corrigido e testado com sucesso.  
+A aplicação da métrica de **complexidade ciclomática** e a elaboração do **grafo de fluxo** permitiram uma compreensão mais profunda do comportamento do programa e das suas estruturas de decisão.
+
+---
+
+## 👩‍💻 Tecnologias Utilizadas  
+
+- ☕ **Java** (versão 17+)   
+- 🧾 **GitHub Markdown** para documentação  
+- 🧠 **Teste de Caixa Branca**
+- 🧱 **JDBC (MySQL Connector/J)**
+- 🌐 **WampServer / phpMyAdmin** 
+
+---
+
+## 📚 Referência  
+
+> GONÇALVEZ, Priscila de F.; BARRETO, Jeanine dos S.; ZENKER, Aline M.; *et al.*  
+> **Testes de software e gerência de configuração**, 2019.
+
+---
 ### ✨ Autor  
 **Nome:** *Gabriel Alberto de Oliveira*  
 **Disciplina:** UX/UI — Teste de Caixa Branca  
