@@ -30,7 +30,8 @@ Durante o desenvolvimento, foram realizados os seguintes passos:
 
 ## 🧩 Grafo de Fluxo  
 
-![WhatsApp Image 2025-11-12 at 15 43 55 (1)](https://github.com/user-attachments/assets/741ffd5b-f930-4f18-9088-a920379a599b)
+<img width="415" height="623" alt="Captura de tela 2025-11-13 194847" src="https://github.com/user-attachments/assets/4747e600-6028-4e1d-9d26-32b0b4ec3b9c" />
+
 
 ---
 
